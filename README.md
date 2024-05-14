@@ -1,4 +1,4 @@
-From: https://github.com/MagicalMadoka
+源于: https://github.com/MagicalMadoka
 
 ### 油猴脚本
 ```js
