@@ -1,5 +1,7 @@
 源于: https://github.com/MagicalMadoka
 
+对于大部分用户已经失效了，散了吧（图一乐
+
 ### 油猴脚本
 ```js
 // ==UserScript==
